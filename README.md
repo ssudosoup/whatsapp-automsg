@@ -1,4 +1,4 @@
-# 🤖 My Work-Mode WA Auto-Responder
+# 🤖 My Work-Mode Personal Whatsapp Auto-Responder
 
 Hey there! Welcome to my personal WhatsApp auto-reply bot repository. 
 
@@ -59,5 +59,3 @@ Feel free to fork this repo and turn it into your own fully intelligent AI clone
 
 ## 📝 Disclaimer
 This project uses `whatsapp-web.js`, which is an unofficial automation library. Use it responsibly and avoid blasting automated messages to hundreds of unknown contacts to keep your account safe from being flagged by WhatsApp.
-
-Happy coding! ✨
